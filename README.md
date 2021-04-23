@@ -1,2 +1,2 @@
 # Primeiros-projetos
-Esse foi meu primeiro "site" feito somente usando html.
+Aqui irei colocar meus primeiros projetos feitos durante meus estudos.
